@@ -29,7 +29,7 @@
     <WebUI>http://[IP]:[PORT:8080]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/qbittorrent.xml</TemplateURL>
     <Icon>https://github.com/linuxserver/docker-templates/raw/master/linuxserver.io/img/qbittorrent-icon.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/qbittorrent/5.3.0_v2.1.2-ls4/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/qbittorrent/5.3.0_v2.1.2-ls5/amd64/screenshot.png</Screenshot>
     <Date>2026-07-05</Date>
     <Changes>
 ### 2026-07-05

@@ -29,7 +29,7 @@
     <WebUI>http://[IP]:[PORT:8000]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/pyload-ng.xml</TemplateURL>
     <Icon>https://github.com/linuxserver/docker-templates/raw/master/linuxserver.io/img/pyload-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/pyload-ng/0.5.0b3.dev101-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/pyload-ng/0.5.0b3.dev101-ls3/amd64/screenshot.png</Screenshot>
     <Date>2026-01-09</Date>
     <Changes>
 ### 2026-01-09

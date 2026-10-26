@@ -29,7 +29,7 @@
     <WebUI>http://[IP]:[PORT:6789]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/nzbget.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/nzbget-banner.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/nzbget/v26.3-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/nzbget/v26.3-ls3/amd64/screenshot.png</Screenshot>
     <Date>2026-07-05</Date>
     <Changes>
 ### 2026-07-05
