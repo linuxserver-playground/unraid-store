@@ -29,7 +29,7 @@
     <WebUI>http://[IP]:[PORT:8200]/login.html</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/duplicati.xml</TemplateURL>
     <Icon>https://github.com/linuxserver/docker-templates/raw/master/linuxserver.io/img/duplicati-icon.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/duplicati/v2.4.0.1_stable_2026-10-07-ls1/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/duplicati/v2.4.0.1_stable_2026-10-07-ls2/amd64/screenshot.png</Screenshot>
     <Date>2026-09-03</Date>
     <Changes>
 ### 2026-09-03
