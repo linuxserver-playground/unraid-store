@@ -29,7 +29,7 @@
     <WebUI>http://[IP]:[PORT:8096]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/jellyfin.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/jellyfin-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/jellyfin/12.3ubu2604-ls3/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/jellyfin/12.4ubu2604-ls3/amd64/screenshot.png</Screenshot>
     <Date>2026-07-14</Date>
     <Changes>
 ### 2026-07-14
