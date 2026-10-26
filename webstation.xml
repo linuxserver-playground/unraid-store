@@ -14,6 +14,16 @@
     <Shell>bash</Shell>
     <GitHub>https://github.com/linuxserver-playground/docker-webstation#application-setup</GitHub>
     <ReadMe>https://github.com/linuxserver-playground/docker-webstation#readme</ReadMe>
+    <Branch>
+        <Tag>latest</Tag>
+        <TagDescription>Stable Webstation releases.</TagDescription>
+    </Branch>
+    <Branch>
+        <Tag>romm</Tag>
+        <TagDescription>romm-broker, the sidecar for collaborative streaming from the ROMM web interface.</TagDescription>
+        <ReadMe>https://github.com/linuxserver-playground/docker-webstation/tree/romm#readme</ReadMe>
+        <GitHub>https://github.com/linuxserver-playground/docker-webstation/tree/romm#application-setup</GitHub>
+    </Branch>
     <Project>https://github.com/linuxserver/docker-webstation</Project>
     <Overview>Webstation(https://github.com/linuxserver/docker-webstation) is a web native emulation focused LXQt desktop based on Ubuntu.</Overview>
     <ExtraParams>--shm-size=1gb</ExtraParams>
