@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:8000]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/apprise-api.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/caronc/apprise-api/master/apprise_api/static/logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/apprise-api/v2.0.2-ls1/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/apprise-api/v2.0.2-ls2/amd64/screenshot.png</Screenshot>
     <Date>2025-07-05</Date>
     <Changes>
 ### 2025-07-05
