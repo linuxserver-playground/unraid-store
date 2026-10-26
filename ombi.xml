@@ -29,7 +29,7 @@
     <WebUI>http://[IP]:[PORT:3579]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/ombi.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/ombi.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/ombi/v4.53.10-ls1/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/ombi/v4.53.10-ls2/amd64/screenshot.png</Screenshot>
     <Date>2024-07-08</Date>
     <Changes>
 ### 2024-07-08

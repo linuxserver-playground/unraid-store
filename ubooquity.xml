@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:2203]/ubooquity/admin</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/ubooquity.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/ubooquity-banner.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/ubooquity/3.1.0-ls1/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/ubooquity/3.1.0-ls2/amd64/screenshot.png</Screenshot>
     <Date>2025-07-27</Date>
     <Changes>
 ### 2025-07-27

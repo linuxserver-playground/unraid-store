@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:32400]/web/index.html</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/plex.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/plex-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/plex/1.43.5.11029-6bf8af3f0-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/plex/1.43.5.11029-6bf8af3f0-ls3/amd64/screenshot.png</Screenshot>
     <Date>2026-07-06</Date>
     <Changes>
 ### 2026-07-06
