@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:3000]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/raneto.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/raneto-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/raneto/0.18.1-ls1/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/raneto/0.18.1-ls2/amd64/screenshot.png</Screenshot>
     <Date>2025-09-16</Date>
     <Changes>
 ### 2025-09-16

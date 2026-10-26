@@ -19,7 +19,7 @@
     <WebUI>https://[IP]:[PORT:3001]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/bitcoin-knots.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/bitcoin-knots-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/bitcoin-knots/29.4.knots20260508.2-resolute1-ls1/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/bitcoin-knots/29.4.knots20260508.2-resolute1-ls2/amd64/screenshot.png</Screenshot>
     <Requires>
         This image is unprotected by default __**do not**__ expose it to the internet.
         Please read https://github.com/linuxserver-playground/docker-bitcoin-knots#security for more information.
