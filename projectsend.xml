@@ -19,6 +19,7 @@
     <WebUI>http://[IP]:[PORT:80]/install/make-config.php</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/projectsend.xml</TemplateURL>
     <Icon>http://www.projectsend.org/wp-content/themes/projectsend/img/screenshots.png</Icon>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/projectsend/r2098-ls1/amd64/screenshot.png</Screenshot>
     <Date>2026-08-10</Date>
     <Changes>
 ### 2026-08-10

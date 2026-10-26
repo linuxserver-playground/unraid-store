@@ -19,6 +19,7 @@
     <WebUI>http://[IP]:[PORT:80]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/nginx.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/nginx-banner.png</Icon>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/nginx/1.30.6-r0-ls1/amd64/screenshot.png</Screenshot>
     <Date>2026-07-05</Date>
     <Changes>
 ### 2026-07-05

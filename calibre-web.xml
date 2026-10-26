@@ -29,6 +29,7 @@
     <WebUI>http://[IP]:[PORT:8083]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/calibre-web.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/calibre-web-icon.png</Icon>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/calibre-web/0.6.27-ls1/amd64/screenshot.png</Screenshot>
     <Date>2025-10-28</Date>
     <Changes>
 ### 2025-10-28

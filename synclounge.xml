@@ -19,6 +19,7 @@
     <WebUI>http://[IP]:[PORT:8088]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/synclounge.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/synclounge-banner.png</Icon>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/synclounge/5.2.35-ls1/amd64/screenshot.png</Screenshot>
     <Date>2026-07-15</Date>
     <Changes>
 ### 2026-07-15

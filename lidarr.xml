@@ -35,6 +35,7 @@
     <WebUI>http://[IP]:[PORT:8686]/system/status</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/lidarr.xml</TemplateURL>
     <Icon>https://github.com/lidarr/Lidarr/raw/develop/Logo/400.png</Icon>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/lidarr/3.1.0.4875-ls1/amd64/screenshot.png</Screenshot>
     <Date>2026-10-19</Date>
     <Changes>
 ### 2026-10-19

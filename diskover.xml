@@ -19,6 +19,7 @@
     <WebUI>http://[IP]:[PORT:80]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/diskover.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/diskoverdata/diskover-community/master/diskover-web/public/images/diskover.png</Icon>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/diskover/v2.3.5-ls1/amd64/screenshot.png</Screenshot>
     <Date>2024-09-06</Date>
     <Changes>
 ### 2024-09-06

@@ -29,6 +29,7 @@
     <WebUI>http://[IP]:[PORT:80]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/heimdall.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/heimdall-banner.png</Icon>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/heimdall/v2.8.3-ls2/amd64/screenshot.png</Screenshot>
     <Date>2026-07-14</Date>
     <Changes>
 ### 2026-07-14

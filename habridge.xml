@@ -19,6 +19,7 @@
     <WebUI>http://[IP]:[PORT:8080]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/habridge.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/habridge-logo.png</Icon>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/habridge/v5.4.1-ls1/amd64/screenshot.png</Screenshot>
     <Date>2024-06-27</Date>
     <Changes>
 ### 2024-06-27

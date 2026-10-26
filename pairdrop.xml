@@ -19,6 +19,7 @@
     <WebUI>http://[IP]:[PORT:3000]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/pairdrop.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/schlagmichdoch/PairDrop/master/public/images/android-chrome-512x512.png</Icon>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/pairdrop/v1.11.2-ls1/amd64/screenshot.png</Screenshot>
     <Date>2025-07-05</Date>
     <Changes>
 ### 2025-07-05
