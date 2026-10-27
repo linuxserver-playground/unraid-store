@@ -20,7 +20,7 @@
     <WebUI>https://[IP]:[PORT:8181]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/boinc.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/BOINC/boinc/master/doc/logo/boinc_logo_black.jpg</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/boinc/8.2.8dfsg202512070716ubuntu24.04.1-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/boinc/8.2.8dfsg202512070716ubuntu24.04.1-ls3/amd64/screenshot.png</Screenshot>
     <Requires>
         This image is unprotected by default __**do not**__ expose it to the internet.
         Please read https://github.com/linuxserver-playground/docker-boinc#security for more information.
