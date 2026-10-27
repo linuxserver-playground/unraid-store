@@ -35,7 +35,7 @@
     <WebUI>http://[IP]:[PORT:9696]/system/status</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/prowlarr.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/prowlarr-banner.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/prowlarr/2.6.5.5623-ls3/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/prowlarr/2.7.0.5723-ls3/amd64/screenshot.png</Screenshot>
     <Date>2026-10-19</Date>
     <Changes>
 ### 2026-10-19
