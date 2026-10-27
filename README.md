@@ -1,7 +1,7 @@
 # LinuxServer.io Unraid templates
 
 **This repository is generated.** Every file is written by the [hub](https://github.com/linuxserver-playground/hub) from each image's `image.yml`
-and newest build, and pushed by its deploy workflow; edits here are overwritten by the next run. Changes belong in
+and newest build, and pushed by its hourly refresh workflow; edits here are overwritten by the next run. Changes belong in
 the image's repository (its `image.yml`) or in the hub's `lsio_hub/generate/unraid.py`.
 
 ## Import
