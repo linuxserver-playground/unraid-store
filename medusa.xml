@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:8081]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/medusa.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/medusa-icon.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/medusa/v1.0.27-ls3/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/medusa/v1.0.27-ls4/amd64/screenshot.png</Screenshot>
     <Date>2026-08-16</Date>
     <Changes>
 ### 2026-08-16
