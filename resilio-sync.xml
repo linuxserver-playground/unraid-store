@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:8888]/gui</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/resilio-sync.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/resilio-sync-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/resilio-sync/3.1.2.1076-1-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/hub/builds/resilio-sync/3.1.2.1076-1-ls3/amd64/screenshot.png</Screenshot>
     <Date>2024-08-21</Date>
     <Changes>
 ### 2024-08-21
