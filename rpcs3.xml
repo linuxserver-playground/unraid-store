@@ -20,7 +20,7 @@
     <WebUI>https://[IP]:[PORT:3001]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/rpcs3.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/rpcs3-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/docker-rpcs3/builds/build-fff0c96bf38d1ada075e524c4753a7f263c06449-ls3/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-rpcs3/builds/build-6c44fff7549e941389a4ce072a95c5ff9db7237c-ls4/amd64/screenshot.png</Screenshot>
     <Requires>
         This image is unprotected by default __**do not**__ expose it to the internet.
         Please read https://github.com/linuxserver-playground/docker-rpcs3#security for more information.
