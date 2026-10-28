@@ -29,7 +29,7 @@
     <WebUI>http://[IP]:[PORT:8090]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/mylar3.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/mylar-icon.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/mylar3/v0.11.0-ls4/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-mylar3/builds/v0.11.0-ls4/amd64/screenshot.png</Screenshot>
     <Date>2026-04-06</Date>
     <Changes>
 ### 2026-04-06

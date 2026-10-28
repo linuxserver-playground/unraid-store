@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:7396]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/foldingathome.xml</TemplateURL>
     <Icon>https://foldingathome.org/wp-content/uploads/2016/09/folding-at-home-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/foldingathome/8.5.6-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-foldingathome/builds/8.5.6-ls2/amd64/screenshot.png</Screenshot>
     <Date>2024-08-10</Date>
     <Changes>
 ### 2024-08-10

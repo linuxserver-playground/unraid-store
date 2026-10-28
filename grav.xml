@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:80]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/grav.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/grav-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/grav/2.2.14-ls3/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-grav/builds/2.2.14-ls3/amd64/screenshot.png</Screenshot>
     <Date>2026-06-27</Date>
     <Changes>
 ### 2026-06-27

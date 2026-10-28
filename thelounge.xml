@@ -35,7 +35,7 @@
     <WebUI>http://[IP]:[PORT:9000]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/thelounge.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/thelounge/thelounge/master/client/img/logo-vertical-transparent-bg.svg?sanitize=true</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/thelounge/v4.5.2-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-thelounge/builds/v4.5.2-ls2/amd64/screenshot.png</Screenshot>
     <Date>2025-07-27</Date>
     <Changes>
 ### 2025-07-27

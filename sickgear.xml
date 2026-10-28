@@ -29,7 +29,7 @@
     <WebUI>http://[IP]:[PORT:8081]/home/view-changes</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/sickgear.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/wiki/SickGear/SickGear.Wiki/images/SickGearLogo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/sickgear/release_3.36.8-ls3/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-sickgear/builds/release_3.36.8-ls3/amd64/screenshot.png</Screenshot>
     <Date>2025-07-09</Date>
     <Changes>
 ### 2025-07-09

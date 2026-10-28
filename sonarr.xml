@@ -29,7 +29,7 @@
     <WebUI>http://[IP]:[PORT:8989]/system/status</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/sonarr.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/sonarr-banner.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/sonarr/4.0.20.3014-ls4/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-sonarr/builds/4.0.20.3014-ls4/amd64/screenshot.png</Screenshot>
     <Date>2026-10-19</Date>
     <Changes>
 ### 2026-10-19

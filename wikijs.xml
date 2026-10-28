@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:3000]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/wikijs.xml</TemplateURL>
     <Icon>https://static.requarks.io/logo/wikijs-full.svg</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/wikijs/v2.5.317-ls3/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-wikijs/builds/v2.5.317-ls4/amd64/screenshot.png</Screenshot>
     <Date>2026-10-10</Date>
     <Changes>
 ### 2026-10-10

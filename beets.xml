@@ -29,7 +29,7 @@
     <WebUI>http://[IP]:[PORT:8337]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/beets.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/beets-icon.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/beets/2.14.1-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-beets/builds/2.14.1-ls2/amd64/screenshot.png</Screenshot>
     <Date>2026-02-01</Date>
     <Changes>
 ### 2026-02-01

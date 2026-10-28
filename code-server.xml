@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:8443]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/code-server.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/code-server-banner.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/code-server/4.143.1-ls4/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-code-server/builds/4.143.1-ls4/amd64/screenshot.png</Screenshot>
     <Date>2026-09-20</Date>
     <Changes>
 ### 2026-09-20

@@ -35,7 +35,7 @@
     <WebUI>http://[IP]:[PORT:8080]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/sabnzbd.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/sabnzbd-banner.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/sabnzbd/5.1.3-ls5/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-sabnzbd/builds/5.1.3-ls5/amd64/screenshot.png</Screenshot>
     <Date>2026-07-04</Date>
     <Changes>
 ### 2026-07-04

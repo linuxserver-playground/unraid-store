@@ -20,7 +20,7 @@
     <WebUI>https://[IP]:[PORT:3001]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/chromium.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/chromium-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/chromium/2dba585f-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-chromium/builds/2dba585f-ls2/amd64/screenshot.png</Screenshot>
     <Requires>
         This image is unprotected by default __**do not**__ expose it to the internet.
         Please read https://github.com/linuxserver-playground/docker-chromium#security for more information.

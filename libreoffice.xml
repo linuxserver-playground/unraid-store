@@ -20,7 +20,7 @@
     <WebUI>https://[IP]:[PORT:3001]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/libreoffice.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/libreoffice-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/libreoffice/25.8.7.3-r0-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-libreoffice/builds/25.8.7.3-r0-ls2/amd64/screenshot.png</Screenshot>
     <Requires>
         This image is unprotected by default __**do not**__ expose it to the internet.
         Please read https://github.com/linuxserver-playground/docker-libreoffice#security for more information.

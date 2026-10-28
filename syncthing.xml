@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:8384]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/syncthing.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/syncthing-banner.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/hub/builds/syncthing/v2.1.7-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-syncthing/builds/v2.1.7-ls2/amd64/screenshot.png</Screenshot>
     <Date>2026-09-10</Date>
     <Changes>
 ### 2026-09-10
