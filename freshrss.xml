@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:80]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/freshrss.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/freshrss-banner.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/docker-freshrss/builds/1.30.4-ls3/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-freshrss/builds/1.30.4-ls4/amd64/screenshot.png</Screenshot>
     <Date>2026-07-21</Date>
     <Changes>
 ### 2026-07-21

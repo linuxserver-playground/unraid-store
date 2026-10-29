@@ -20,12 +20,16 @@
     <WebUI>https://[IP]:[PORT:3001]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/intellij-idea.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/intellij-idea-logo.png</Icon>
+    <Screenshot>https://linuxserver-playground.github.io/docker-intellij-idea/builds/2026.2.3-ls1/amd64/screenshot.png</Screenshot>
     <Requires>
         This image is unprotected by default __**do not**__ expose it to the internet.
         Please read https://github.com/linuxserver-playground/docker-intellij-idea#security for more information.
     </Requires>
-    <Date>2026-05-18</Date>
+    <Date>2026-10-29</Date>
     <Changes>
+### 2026-10-29
+- Install intellij-idea-oss, Arch&#x27;s new name for the community edition package.
+
 ### 2026-05-18
 - Remove aarch64 support as it has been dropped upstream.
 
