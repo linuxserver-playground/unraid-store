@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:8085]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/htpcmanager.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/htpcmanager-icon.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/docker-htpcmanager/builds/26a641bf-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-htpcmanager/builds/26a641bf-ls3/amd64/screenshot.png</Screenshot>
     <Date>2024-06-27</Date>
     <Changes>
 ### 2024-06-27

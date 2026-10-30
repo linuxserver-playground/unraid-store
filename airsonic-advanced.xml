@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:4040]/login</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/airsonic-advanced.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/airsonic-banner.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/docker-airsonic-advanced/builds/11.1.4-ls3/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-airsonic-advanced/builds/11.1.4-ls4/amd64/screenshot.png</Screenshot>
     <Date>2024-12-21</Date>
     <Changes>
 ### 2024-12-21
