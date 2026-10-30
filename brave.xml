@@ -30,7 +30,7 @@
     <WebUI>https://[IP]:[PORT:3001]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/brave.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/brave-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/docker-brave/builds/1.98.63-ls3/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-brave/builds/1.98.63-ls4/amd64/screenshot.png</Screenshot>
     <Requires>
         This image is unprotected by default __**do not**__ expose it to the internet.
         Please read https://github.com/linuxserver-playground/docker-brave#security for more information.

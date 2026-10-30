@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:5299]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/lazylibrarian.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/lazylibrarian-icon.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/docker-lazylibrarian/builds/d7e0cf3d-ls4/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-lazylibrarian/builds/a5f08524-ls4/amd64/screenshot.png</Screenshot>
     <Date>2024-08-14</Date>
     <Changes>
 ### 2024-08-14
