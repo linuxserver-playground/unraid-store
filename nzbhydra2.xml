@@ -29,7 +29,7 @@
     <WebUI>http://[IP]:[PORT:5076]/system/about</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/nzbhydra2.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/hydra-icon.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/docker-nzbhydra2/builds/v9.2.0-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-nzbhydra2/builds/v9.2.0-ls3/amd64/screenshot.png</Screenshot>
     <Date>2024-07-18</Date>
     <Changes>
 ### 2024-07-18
