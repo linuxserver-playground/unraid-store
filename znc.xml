@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:6501]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/znc.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/znc-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/docker-znc/builds/znc-1.10.3-ls2/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-znc/builds/znc-1.10.3-ls3/amd64/screenshot.png</Screenshot>
     <Date>2025-07-27</Date>
     <Changes>
 ### 2025-07-27
