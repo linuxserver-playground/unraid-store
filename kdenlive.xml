@@ -19,7 +19,7 @@
     <WebUI>https://[IP]:[PORT:3001]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/kdenlive.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/kdenlive-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/docker-kdenlive/builds/26.08.2-3-ls4/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-kdenlive/builds/26.08.2-3-ls5/amd64/screenshot.png</Screenshot>
     <Requires>
         This image is unprotected by default __**do not**__ expose it to the internet.
         Please read https://github.com/linuxserver-playground/docker-kdenlive#security for more information.
