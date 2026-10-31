@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:8080]/pwndrop</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/pwndrop.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/kgretzky/pwndrop/master/media/pwndrop-logo-512.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/docker-pwndrop/builds/1.0.1-ls3/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-pwndrop/builds/1.0.1-ls4/amd64/screenshot.png</Screenshot>
     <Date>2026-07-17</Date>
     <Changes>
 ### 2026-07-17
