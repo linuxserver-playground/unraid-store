@@ -20,7 +20,7 @@
     <WebUI>https://[IP]:[PORT:3001]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/shadps4.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/shadps4-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/docker-shadps4/builds/shadPS4QtLauncher-2026-10-31-24fd1248155dcfce61437b0ec0a3b0a4d0320386-ls7/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-shadps4/builds/shadPS4QtLauncher-2026-11-03-6d24d393a4f9488d46de98bb2cc1e5f5197ad969-ls7/amd64/screenshot.png</Screenshot>
     <Requires>
         This image is unprotected by default __**do not**__ expose it to the internet.
         Please read https://github.com/linuxserver-playground/docker-shadps4#security for more information.
