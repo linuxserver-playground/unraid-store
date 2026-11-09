@@ -19,7 +19,7 @@
     <WebUI>http://[IP]:[PORT:8888]</WebUI>
     <TemplateURL>https://raw.githubusercontent.com/linuxserver-playground/unraid-store/main/oscam.xml</TemplateURL>
     <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/oscam-logo.png</Icon>
-    <Screenshot>https://linuxserver-playground.github.io/docker-oscam/builds/11969-ls4/amd64/screenshot.png</Screenshot>
+    <Screenshot>https://linuxserver-playground.github.io/docker-oscam/builds/11971-ls5/amd64/screenshot.png</Screenshot>
     <Date>2026-07-17</Date>
     <Changes>
 ### 2026-07-17
